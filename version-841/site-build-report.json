@@ -1,0 +1,21 @@
+{
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_page_count": 10,
+  "root_html_pages": 4,
+  "total_html_pages": 2014,
+  "hls_source_count": 20,
+  "missing_baidu_pages": [],
+  "category_distribution": {
+    "亚洲精选": 200,
+    "悬疑犯罪": 200,
+    "喜剧爱情": 200,
+    "剧情家庭": 200,
+    "动作冒险": 200,
+    "动画动漫": 200,
+    "纪录艺术": 200,
+    "奇幻科幻": 200,
+    "惊悚恐怖": 200,
+    "经典海外": 200
+  }
+}
